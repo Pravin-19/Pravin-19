@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pravin V</h1>
 
 💫 **About Me**: <br> <br>
-🌍 Self-taught Full Stack Web Developer, AWS Cloud & DevOps Engineer  <br>🌐 Remote work enthusiast, aspiring Digital Nomad  <br>🤝 Open to networking and connecting with new people  <br>🚀 Creating my time by making opportunities<br>✈️ Love to travel
+🌍 Self-taught Full Stack Web Developer, AWS Cloud & DevOps Engineer  <br>🌐 Remote work enthusiast, aspiring Digital Nomad  <br>🤝 Open to networking and connecting with new people  <br>✈️ Love to travel
 
 
 ## 🌐 Socials:
